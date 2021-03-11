@@ -98,7 +98,7 @@ require([
       container: "viewDiv",
       map: map,
       zoom: 4,
-      center: [-95, 40] // US    
+      center: [54, -6.7] // US    
     });
 
     /****************************************************
